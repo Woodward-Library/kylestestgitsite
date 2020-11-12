@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+
+# required for building jekyll site locally
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
