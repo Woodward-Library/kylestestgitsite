@@ -4,6 +4,8 @@ title: Overview
 nav_order: 2
 ---
 
+See https://pmarsceill.github.io/just-the-docs/ for Theme options
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Woodward-Library/wdrefubc.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
